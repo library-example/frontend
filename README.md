@@ -2,7 +2,6 @@ Library Example Frontend
 ===============
 
 [![Build Status](https://drone.io/github.com/library-example/frontend/status.png)](https://drone.io/github.com/library-example/frontend/latest)
-[![Coverage Status](https://coveralls.io/repos/inkrement/Library-Example/badge.png?branch=master)](https://coveralls.io/r/inkrement/Library-Example?branch=master)
 
 SQM @ UT Vienna
 
